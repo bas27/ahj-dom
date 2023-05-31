@@ -1,5 +1,7 @@
 # Домашнее задание к занятию "2. DOM"
 
+[![Build status](https://ci.appveyor.com/api/projects/status/yhyaio7iuu0ji8t4?svg=true)](https://ci.appveyor.com/project/bas27/ahj-dom)
+
 Правила сдачи задания:
 
 1. **Важно**: в рамках этого ДЗ можно использовать любой менеджер пакетов
