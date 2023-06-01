@@ -1,6 +1,6 @@
 # Домашнее задание к занятию "2. DOM"
 
-[![Build status](https://ci.appveyor.com/api/projects/status/yhyaio7iuu0ji8t4?svg=true)](https://ci.appveyor.com/project/bas27/ahj-dom)
+[![AHJ-DOM](https://github.com/bas27/ahj-dom/actions/workflows/web.yml/badge.svg)](https://github.com/bas27/ahj-dom/actions/workflows/web.yml)
 
 Правила сдачи задания:
 
