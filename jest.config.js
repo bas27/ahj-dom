@@ -1,8 +1,4 @@
-module.exports = {
-  // ...другие настройки Jest...
-  moduleNameMapper: {
-    "\\.(png|jpg|jpeg|gif|svg)$": "<rootDir>/empty-module.js",
-  },
-
-  testEnvironment: "jsdom",
+export const moduleNameMapper = {
+  "\\.(png|jpg|jpeg|gif|svg)$": "<rootDir>/empty-module.js",
 };
+export const testEnvironment = "jsdom";
